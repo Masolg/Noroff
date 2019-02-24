@@ -1,0 +1,17 @@
+Level 2
+
+1. The DOM is the document object model. It allows you to get and change elements in a HTML document. 
+
+2. Three methods to manipulate the DOM is getElementById, innerHTML and .style. 
+
+3. An asynchronous call is a call to an API-server which allows you to continue with your program while you wait for the API-server to let you know that the data is available.
+
+4. The sources tab in Chromes Developers Tools does allow you to view files, edit JavaScript and CSS, create JavaScript snippets and debug JavaScript.
+
+5. A JavaScript promise is an object for a value that will be supplied at some point. It can either return as a value or a failure with an error message.
+
+6. An API is the messenger that takes request and tells a system what you want to do, and then returns the response back to you.
+
+7. A JavaScript Event is something that happens to the HTML elements, that JavaScript can react to. For example a button being clicked, or an input-field was changed. 
+
+8. Event bubbling is the principle where if you trigger an event on an element it may also trigger events on its parents.
